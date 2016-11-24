@@ -1,0 +1,46 @@
+Massive Multiplayer fighter game
+
+Base Game:
+
+Classes:
+Player
+
+Weapon:
+Sword
+
+Game Modes:
+
+Death Match - To a kill count or time limit
+King of the Hill - Hold a point for the longest
+Cat Match - 9 live limit
+Survival - Who ever stays alive for the longest period of time wins
+Slayer - Person picks up special orb, only person who can get points, get points for each person he kills. Person who kills him becomes slayer.
+Jugernaut - Slayer, but is slower and more powerful
+Runner - Picks up orb, cannot attack, gets points based on how long you are alive. Person who kills him becomes runner.
+
+Team Modes
+Capture the Flag - Capture limit is 3
+Marathon - Capture the flag, but speed is reduced to 0.1x when flag is in possession and capture limit is 1
+To Victory - Capture the flag, but start in opposite enemy base, capture limit is 5
+Charge - To Victory with Marathon rules
+Team Survival - Keep a single person on your team alive the longest
+Team Cat Match - Each player has 9 lives
+Team Death Limit - Team has total live limit
+Team Death Match - To kill limit or time limit
+Team King of the Hill
+VIP - Team protects a single unarmed person, can only die 3 times
+Team Runner
+Its a Democracy - Each Team plays as a single player
+
+CPU Difficulty Scale
+Mentally Challenged
+Easy
+Average
+Hard
+Cheating
+Impossible
+Cheating and Impossible
+
+Modes:
+Sucks to be First - First Place is 50% slower than everyone else
+The Handicap - Each player is slowed down based on how far they are from last place
